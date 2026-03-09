@@ -60,9 +60,9 @@ No vendemos plantillas. No reutilizamos código genérico. Cada sistema lo const
 
 |👤  |Nombre                |Especialidad                              |
 |:-:|----------------------|------------------------------------------|
-|   |**Alan González**     |Diseño, Frontend & Desarrollo Móvil       |
-|   |**Alan Chávez**       |Backend, Análisis & Seguridad             |
 |   |**Christian Quiñones**|Backend, Automatizaciones & Ciberseguridad|
+|   |**Alan Chávez**       |Backend, Análisis & Seguridad             |
+|   |**Alan González**     |Diseño, Frontend & Desarrollo Móvil       |
 
 </div>
 
@@ -78,24 +78,6 @@ Te presentamos una propuesta clara: qué vamos a construir, cómo lo vamos a hac
 
 **3. Construimos y acompañamos**
 Entregamos con comunicación abierta durante todo el proceso. No desaparecemos al entregar.
-
------
-
-## Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
 
 -----
 
