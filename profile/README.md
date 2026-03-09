@@ -39,14 +39,14 @@ Nos especializamos en construir sistemas que resuelven problemas reales: desde p
 ### 🍔 12 Burger — Sistema POS `v1.0`
 > Punto de venta para restaurante · Durango, México
 
-Sistema integral con gestión de comandas en tiempo real, monitor de cocina (KDS) con soporte dual screen y dashboard de estadísticas. Entregado como aplicación de escritorio local.
+El equipo de cocina perdía tiempo coordinando órdenes en papel y el dueño no tenía visibilidad de sus ventas. Construimos un sistema de punto de venta completo: comandas en tiempo real entre caja y cocina, pantalla dedicada para el equipo de preparación y un dashboard con las estadísticas del negocio. Todo en una aplicación de escritorio que funciona sin internet.
 
 ---
 
 ### 🥩 Gran Ternera — Sistema de Inventario y Trazabilidad `en desarrollo`
-> Control de producción · Durango, México
+> Productora de carne seca artesanal · Durango, México
 
-Sistema para gestionar producción por lotes, inventario en tiempo real, distribución a 15+ puntos de venta, alertas de caducidad, control de mermas y reportes para toma de decisiones.
+Con producción por lotes y distribución a más de 15 puntos de venta, llevar el control manualmente dejó de ser viable. Estamos desarrollando un sistema que centraliza el inventario, rastrea cada lote desde producción hasta entrega, alerta sobre fechas de caducidad y genera reportes para que la dueña tome decisiones con información real.
 
 ---
 
@@ -62,6 +62,16 @@ Tres ingenieros con perfiles complementarios — diseño, producto, backend y se
 
 ---
 
+## Cómo trabajamos
+
+No tenemos un proceso rígido porque cada cliente es diferente. Lo que sí es constante:
+
+1. **Escuchamos primero** — Antes de escribir una línea de código, entendemos tu operación, tus problemas reales y lo que esperas del sistema.
+2. **Proponemos, no suponemos** — Te presentamos una propuesta clara: qué vamos a construir, cómo lo vamos a hacer y cuánto va a costar. Sin sorpresas.
+3. **Construimos y acompañamos** — Entregamos con comunicación abierta durante todo el proceso, y no desaparecemos al entregar.
+
+---
+
 ## Contacto
 
 ¿Tienes un proyecto en mente? Cuéntanos.
@@ -73,6 +83,6 @@ Tres ingenieros con perfiles complementarios — diseño, producto, backend y se
 
 <div align="center">
 
-*Apeiron.io — Software sin límites.*
+*Apeiron.io — Construimos lo que tu negocio necesita, no lo que es más fácil de hacer.*
 
 </div>
